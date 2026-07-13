@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "booking_2cxe5",
+    "businessId": "biz_bdfikx",
+    "customerName": "Akarsh Singh",
+    "email": "akarshsingh417@gmail.com",
+    "phone": "07417488193",
+    "bookingDate": "2026-06-26",
+    "bookingTime": "16:31",
+    "service": "Deluxe Room Stay",
+    "status": "pending",
+    "createdAt": "2026-06-15T21:01:14.974Z"
+  }
+]

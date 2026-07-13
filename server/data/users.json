@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "user_ojc93i",
+    "name": "Akarsh Singh",
+    "email": "akarshsingh4171@gmail.com",
+    "password": "$2a$10$/2raW8UcFf0ZfKvtJY0CguMDbkVxcauhJK4w95yFa7af56emZuTkS",
+    "role": "owner",
+    "subscription": {
+      "plan": "free",
+      "status": "active"
+    },
+    "createdAt": "2026-06-15T19:51:04.191Z",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InVzZXJfb2pjOTNpIiwiaWF0IjoxNzgxNTUzMDY0LCJleHAiOjE3ODIxNTc4NjR9.veeYWsfjPK4cwBHcvZTifPTnlQVNsf--nTgt2UtIC28"
+  },
+  {
+    "_id": "user_3cztjo",
+    "name": "Akarsh Singh9",
+    "email": "akarshsingh4172@gmail.com",
+    "password": "$2a$10$DaKpzqlGi2Uuy1YZehTNWe5qF/kq3JnEdnhA7X64Vyl/HEg5Ocm1K",
+    "role": "owner",
+    "subscription": {
+      "plan": "pro",
+      "status": "active",
+      "stripeCustomerId": "cus_mock_h8j0ho",
+      "stripeSubscriptionId": "sub_mock_m6ejyb",
+      "currentPeriodEnd": "2026-07-15T20:02:46.286Z"
+    },
+    "createdAt": "2026-06-15T19:52:54.847Z",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InVzZXJfM2N6dGpvIiwiaWF0IjoxNzgxNTU2OTAwLCJleHAiOjE3ODIxNjE3MDB9.UQkHZ19GjrabCn2wJ8AS8_wozyvRt5UvFhnW_NKvO7I"
+  },
+  {
+    "_id": "user_v5xmxc",
+    "name": "sugli chikku",
+    "email": "suglichikku@gmail.com",
+    "password": "$2a$10$yiAxSdX/eWRGKcA4YknD8uortuKVKt.UewQ30IqGh0zXFuQgBtBIO",
+    "role": "owner",
+    "subscription": {
+      "plan": "starter",
+      "status": "active",
+      "stripeCustomerId": "cus_mock_qfpxjr",
+      "stripeSubscriptionId": "sub_mock_yu1hgc",
+      "currentPeriodEnd": "2026-07-15T20:52:35.214Z"
+    },
+    "createdAt": "2026-06-15T20:23:20.233Z",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6InVzZXJfdjV4bXhjIiwiaWF0IjoxNzgxNTU2NTk5LCJleHAiOjE3ODIxNjEzOTl9.z3VkL9qhETPCHH4HewZzEdldBE7Q0yFRLJBl4ysdEiI"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "biz_z7ovgm",
+    "ownerId": "user_v5xmxc",
+    "businessName": "N.A.",
+    "slug": "na",
+    "category": "restaurant",
+    "address": "10 A Brij Nagar Mathura",
+    "phone": "+917417488193",
+    "whatsapp": "7417488193",
+    "template": "minimalist",
+    "theme": {
+      "primaryColor": "#B91C1C",
+      "secondaryColor": "#F59E0B",
+      "backgroundColor": "#FFFDFB",
+      "textColor": "#111827"
+    },
+    "content": {
+      "hero": {
+        "title": "Savor Exquisite Flavors at NBC",
+        "subtitle": "Indulge in a curated collection of local culinary treasures, crafted with love and fresh ingredients by our master chefs.",
+        "ctaText": "Reserve a Table",
+        "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80"
+      },
+      "about": {
+        "title": "A Culinary Journey Like No Other",
+        "story": "At N.A., we believe food is an art form. Established in 2018, we have quickly become the community's favorite gathering spot, focusing on organic, farm-to-table ingredients and traditional cooking techniques that bring bold, delicious flavors to your plate.",
+        "imageUrl": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=80"
+      },
+      "services": [
+        {
+          "name": "Chef's Special Multi-Course Dinner",
+          "description": "A signature 5-course degustation menu highlighting seasonal inputs and paired wines.",
+          "price": "$65 / person",
+          "duration": "approx. 2 hours"
+        },
+        {
+          "name": "Private Table Reservation",
+          "description": "Reserve our premium corner or window tables for celebrations, including welcome drinks.",
+          "price": "$15 deposit",
+          "duration": "Allocated for 2.5 hours"
+        },
+        {
+          "name": "Weekend Family Brunch",
+          "description": "An all-you-can-eat spread with bottomless fresh mocktails, dessert bar, and live stations.",
+          "price": "$35 / person",
+          "duration": "Saturdays & Sundays 11:00 AM"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer vegan and gluten-free alternatives?",
+          "answer": "Yes! Our menu has clear labels for vegan, vegetarian, and gluten-free items. You can also request custom modifications."
+        },
+        {
+          "question": "Can we book the entire restaurant for private events?",
+          "answer": "Absolutely. We host corporate dinners, birthday parties, and wedding receptions. Contact our manager for booking rates."
+        }
+      ],
+      "contact": {
+        "email": "contact@n.a..com",
+        "phone": "+917417488193",
+        "address": "10 A Brij Nagar Mathura",
+        "mapsUrl": "https://maps.google.com"
+      }
+    },
+    "seo": {
+      "title": "N.A. | Best restaurant in Town",
+      "metaDescription": "Discover the best local restaurant services at N.A.. Find contact info, book appointments, and check reviews online.",
+      "keywords": [
+        "N.A.",
+        "restaurant",
+        "local business",
+        "booking",
+        "10 A Brij Nagar Mathura"
+      ],
+      "openGraph": {
+        "title": "N.A. - Generated Website",
+        "description": "Explore services and book directly at N.A..",
+        "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80"
+      }
+    },
+    "views": 0,
+    "bookingsCount": 0,
+    "createdAt": "2026-06-15T20:28:07.350Z"
+  },
+  {
+    "_id": "biz_bdfikx",
+    "ownerId": "user_3cztjo",
+    "businessName": "Govindam Residensy",
+    "slug": "govindam-residensy",
+    "category": "hotel",
+    "address": "behind DD Plaza, Brij Nagar Colony, Manoharpura, Mathura, Uttar Pradesh 281001",
+    "phone": "8923011666",
+    "whatsapp": "7454020123",
+    "template": "classic",
+    "theme": {
+      "primaryColor": "#1E3A8A",
+      "secondaryColor": "#D97706",
+      "backgroundColor": "#F8FAFC",
+      "textColor": "#0F172A"
+    },
+    "content": {
+      "hero": {
+        "title": "Welcome to Govindam Residensy",
+        "subtitle": "Experience luxurious stays, premium hospitality, and breathtaking views right in the heart of the city.",
+        "ctaText": "Book Your Stay Now",
+        "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80"
+      },
+      "about": {
+        "title": "Where Comfort Meets Elegance",
+        "story": "Govindam Residensy was founded with a single mission: to redefine premium lodging and personalized guest experiences. Every room is designed to blend contemporary design with ultimate relaxation, ensuring your visit is nothing short of exceptional.",
+        "imageUrl": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&w=800&q=80"
+      },
+      "services": [
+        {
+          "name": "Deluxe Room Stay",
+          "description": "Spacious king-size bedroom with ocean view, workspace, high-speed Wi-Fi, and smart TV.",
+          "price": "$120 / night",
+          "duration": "Check-in 2:00 PM"
+        },
+        {
+          "name": "Executive Suite",
+          "description": "Ultimate luxury with separate lounge area, jacuzzi, complimentary minibar, and dining spaces.",
+          "price": "$220 / night",
+          "duration": "Check-in 2:00 PM"
+        },
+        {
+          "name": "Rooftop Fine Dining",
+          "description": "Multi-cuisine restaurant offering local gourmet menus, premium wine tastings, and live music.",
+          "price": "Menu prices vary",
+          "duration": "Open daily 6:00 PM - 11:00 PM"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What are the check-in and check-out timings?",
+          "answer": "Check-in is from 2:00 PM onwards, and check-out is by 11:00 AM. Early check-in or late check-out can be requested, subject to availability."
+        },
+        {
+          "question": "Is breakfast included in the booking rate?",
+          "answer": "Yes, all our room bookings include a complimentary buffet breakfast at our lobby café."
+        }
+      ],
+      "contact": {
+        "email": "contact@govindamresidensy.com",
+        "phone": "8923011666",
+        "address": "behind DD Plaza, Brij Nagar Colony, Manoharpura, Mathura, Uttar Pradesh 281001",
+        "mapsUrl": "https://maps.google.com"
+      }
+    },
+    "seo": {
+      "title": "Govindam Residensy | Best hotel in Town",
+      "metaDescription": "Discover the best local hotel services at Govindam Residensy. Find contact info, book appointments, and check reviews online.",
+      "keywords": [
+        "Govindam Residensy",
+        "hotel",
+        "local business",
+        "booking",
+        "behind DD Plaza, Brij Nagar Colony, Manoharpura, Mathura, Uttar Pradesh 281001"
+      ],
+      "openGraph": {
+        "title": "Govindam Residensy - Generated Website",
+        "description": "Explore services and book directly at Govindam Residensy.",
+        "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80"
+      }
+    },
+    "views": 2,
+    "bookingsCount": 1,
+    "createdAt": "2026-06-15T21:00:40.585Z"
+  }
+]
