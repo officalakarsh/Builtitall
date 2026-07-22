@@ -2,85 +2,85 @@
   {
     "_id": "biz_z7ovgm",
     "ownerId": "user_v5xmxc",
-    "businessName": "N.A.",
-    "slug": "na",
-    "category": "restaurant",
+    "businessName": "Brijwasi Sweets",
+    "slug": "brijwasi-sweets",
+    "category": "sweet-shop",
     "address": "10 A Brij Nagar Mathura",
     "phone": "+917417488193",
     "whatsapp": "7417488193",
-    "template": "minimalist",
+    "template": "modern",
     "theme": {
-      "primaryColor": "#B91C1C",
-      "secondaryColor": "#F59E0B",
-      "backgroundColor": "#FFFDFB",
-      "textColor": "#111827"
+      "primaryColor": "#DB2777",
+      "secondaryColor": "#F43F5E",
+      "backgroundColor": "#FFF5F7",
+      "textColor": "#374151"
     },
     "content": {
       "hero": {
-        "title": "Savor Exquisite Flavors at NBC",
-        "subtitle": "Indulge in a curated collection of local culinary treasures, crafted with love and fresh ingredients by our master chefs.",
-        "ctaText": "Reserve a Table",
-        "imageUrl": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80"
+        "title": "Sweeten Every Moment with Brijwasi Sweets",
+        "subtitle": "Delight in authentic traditional Indian sweets, customized celebratory cakes, and artisanal handmade chocolates.",
+        "ctaText": "Place Custom Order",
+        "imageUrl": "https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=1200&q=80"
       },
       "about": {
-        "title": "A Culinary Journey Like No Other",
-        "story": "At N.A., we believe food is an art form. Established in 2018, we have quickly become the community's favorite gathering spot, focusing on organic, farm-to-table ingredients and traditional cooking techniques that bring bold, delicious flavors to your plate.",
-        "imageUrl": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=800&q=80"
+        "title": "Crafting Sweets with Legacy",
+        "story": "For generations, Brijwasi Sweets has been the cornerstone of sweetness and celebrations in town. We use high-quality pure ghee, fresh milk, and premium saffron to handcraft recipes passed down through families, keeping authenticity alive in every bite.",
+        "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80"
       },
       "services": [
         {
-          "name": "Chef's Special Multi-Course Dinner",
-          "description": "A signature 5-course degustation menu highlighting seasonal inputs and paired wines.",
-          "price": "$65 / person",
-          "duration": "approx. 2 hours"
+          "name": "Assorted Premium Sweet Box",
+          "description": "Custom selection box containing Kaju Katli, Motichoor Ladoo, Pista Mawa Roll, and Kesar Peda.",
+          "price": "₹250 / kg",
+          "duration": "Freshly packed"
         },
         {
-          "name": "Private Table Reservation",
-          "description": "Reserve our premium corner or window tables for celebrations, including welcome drinks.",
-          "price": "$15 deposit",
-          "duration": "Allocated for 2.5 hours"
+          "name": "Custom Celebratory Cakes",
+          "description": "Handcrafted multi-tier cakes for birthdays, weddings, and anniversaries. Order 2 days in advance.",
+          "price": "From ₹500",
+          "duration": "Made to order"
         },
         {
-          "name": "Weekend Family Brunch",
-          "description": "An all-you-can-eat spread with bottomless fresh mocktails, dessert bar, and live stations.",
-          "price": "$35 / person",
-          "duration": "Saturdays & Sundays 11:00 AM"
+          "name": "Festival Gift Hampers",
+          "description": "Beautifully decorated boxes containing sweets, dry fruits, chocolates, and celebratory items.",
+          "price": "₹500 onwards",
+          "duration": "Available during holidays"
         }
       ],
       "faqs": [
         {
-          "question": "Do you offer vegan and gluten-free alternatives?",
-          "answer": "Yes! Our menu has clear labels for vegan, vegetarian, and gluten-free items. You can also request custom modifications."
+          "question": "Do you offer sugar-free options?",
+          "answer": "Yes, we have a dedicated section of sugar-free sweets made with natural sweeteners like stevia, including sugar-free dry fruit ladoos."
         },
         {
-          "question": "Can we book the entire restaurant for private events?",
-          "answer": "Absolutely. We host corporate dinners, birthday parties, and wedding receptions. Contact our manager for booking rates."
+          "question": "Do you ship sweets out of state?",
+          "answer": "Yes, we offer premium airtight packaging that preserves freshness for nationwide courier deliveries."
         }
       ],
       "contact": {
-        "email": "contact@n.a..com",
+        "email": "contact@brijwasisweets.com",
         "phone": "+917417488193",
         "address": "10 A Brij Nagar Mathura",
         "mapsUrl": "https://maps.google.com"
       }
     },
     "seo": {
-      "title": "N.A. | Best restaurant in Town",
-      "metaDescription": "Discover the best local restaurant services at N.A.. Find contact info, book appointments, and check reviews online.",
+      "title": "Brijwasi Sweets | Best Sweet Shop in Town",
+      "metaDescription": "Discover the best local sweet shop services at Brijwasi Sweets. Find contact info, book appointments, and check reviews online.",
       "keywords": [
-        "N.A.",
-        "restaurant",
+        "Brijwasi Sweets",
+        "sweet-shop",
         "local business",
         "booking",
         "10 A Brij Nagar Mathura"
       ],
       "openGraph": {
-        "title": "N.A. - Generated Website",
-        "description": "Explore services and book directly at N.A..",
-        "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80"
+        "title": "Brijwasi Sweets - Generated Website",
+        "description": "Explore services and book directly at Brijwasi Sweets.",
+        "image": "https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=1200&q=80"
       }
     },
-    "views": 0,
+    "views": 2,
     "bookingsCount": 0,
     "createdAt": "2026-06-15T20:28:07.350Z"
   },

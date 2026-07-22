@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import TemplateRenderer from '../components/TemplateRenderer';
 import { AlertTriangle, Globe } from 'lucide-react';
+import { API_URL } from '../services/api';
 
 export default function PublicSitePage() {
   const { slug } = useParams();
@@ -12,7 +13,7 @@ export default function PublicSitePage() {
   useEffect(() => {
     const fetchSiteData = async () => {
       try {
-        const response = await fetch(`http://localhost:5000/api/public/site/${slug}`);
+        const response = await fetch(`${API_URL}/public/site/${slug}`);
         const data = await response.json();
 
         if (data.success) {
