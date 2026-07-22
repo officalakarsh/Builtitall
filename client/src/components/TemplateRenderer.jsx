@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Clock, Phone, MapPin, Mail, MessageSquare, ChevronDown, CheckCircle, Moon, Sun } from 'lucide-react';
 import confetti from 'canvas-confetti';
+import { API_URL } from '../services/api';
 
 export default function TemplateRenderer({ business, isPreview = false }) {
   const { businessName, category, address, phone, whatsapp, template, theme, content, slug } = business;
@@ -44,7 +45,7 @@ export default function TemplateRenderer({ business, isPreview = false }) {
 
     setBookingLoading(true);
     try {
-      const response = await fetch(`http://localhost:5000/api/public/site/${slug}/book`, {
+      const response = await fetch(`${API_URL}/public/site/${slug}/book`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(bookingForm)
